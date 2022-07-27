@@ -4,7 +4,7 @@ export default function App() {
     const [contact, setContact] = React.useState({
         firstName: "Duhan",
         lastName: "Bektas",
-        phone: "+1 (719) 555-1212",
+        phone: "+90 (531) 275-6091",
         email: "duhan@example.com",
         isFavorite: false
     })
